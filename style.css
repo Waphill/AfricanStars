@@ -1,0 +1,82 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+nav img {
+  margin: 0;
+  padding: 0;
+}
+
+/*
+* Targeting the list in the navigation bar
+*/
+footer li {
+  list-style: none;
+  /* removes bullets in the lists*/
+
+}
+
+/*
+  * Targeting the links in the navigation bar list
+  */
+footer li a {
+  text-decoration: none;
+  /* removes underlines on links*/
+  color: white;
+}
+
+footer li a:hover {
+  color: white;
+  text-decoration: underline;
+
+}
+
+span {
+  color: grey;
+}
+
+.card-footer button {
+  margin-left: 150px;
+}
+
+#register {
+  color: white;
+  text-decoration: none;
+}
+
+#poster {
+  margin: 20px;
+}
+
+#poster img {
+  width: 500px;
+  margin: 20px;
+}
+
+#Download a {
+  color: white;
+  text-decoration: none;
+}
+
+
+#Download a:hover {
+  color: white;
+  text-decoration: none;
+
+}
+
+#instructions,
+ul {
+  list-style: disc;
+}
+
+#price {
+  color: black;
+  font-size: 17px;
+}
+
+#eventdate {
+  font-size: 17px;
+}
