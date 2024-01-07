@@ -85,6 +85,11 @@ ul {
   margin-left: 150px;
 }
 
+#bank-details {
+  list-style: none;
+  
+}
+
 @media (max-width:799px) {
   #map-box {
     margin-left: 50px;
