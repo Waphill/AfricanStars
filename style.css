@@ -81,3 +81,39 @@ ul {
   font-size: 17px;
 }
 
+#map-box {
+  margin-left: 150px;
+}
+
+@media (max-width:799px) {
+  #map-box {
+    margin-left: 50px;
+  }
+}
+
+@media (max-width:477px) {
+
+  h4{
+    font-size: 18px;
+  }
+
+  p {
+    font-size: 12px;
+  }
+
+  #copyrights {
+    font-size: 12px;
+  }
+
+  #footer-list {
+    font-size: 13px;
+    margin-left: -5px;
+  }
+
+  #map-box {
+    margin-top: 15px;
+    margin-left: 0;
+  }
+
+
+}
